@@ -39,8 +39,9 @@ or alternatively you can copy and paste the commands in
 
 👤 **Matias Aguirre**
 
-- GitHub: []()
-- LinkedIn: []()
+- GitHub: [@LokurasRlz](https://github.com/LokurasRlz)
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/)
 
 
 ## 🤝 Contributing
