@@ -18,9 +18,6 @@
 
 - Clone this repo locally using git in the command line and the following command
 
- ```bash
- > git clone git@github.com:zhadier/OOP-School-Library.git
- ```
 
 - Alternatively, you can just download the complete zip file and extract the folder in your directory
 
